@@ -1,2 +1,3 @@
 # zensical
+
 Zensical site generator
